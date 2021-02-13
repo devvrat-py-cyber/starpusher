@@ -1,0 +1,2 @@
+# starpusher
+a simple game
